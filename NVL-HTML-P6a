@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Futbol</title>
+ <img src="ligafoto.jpg">
+ </head>
+ <h1>LA LIGA DE FUTBOL NACIONAL</h1>
+ <p>Clasificación de los equipos</p>
+  <ul>
+     <li>Real Sociedad</li>
+     <li>Barcelona</li>
+     <li>Real Madrid</li>
+     <li>Atletico Madrid</li>
+ <body>
+   <p>Gracias</p>
+ </body>
+</html>
